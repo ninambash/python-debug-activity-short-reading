@@ -108,9 +108,7 @@ We have some rule changes: False
 I can't predict the future, but no, the Jaguars will never win the Super Bowl.
 ```
 
-If you want to run the code in a repl.it, the code is also [written here](https://repl.it/@GAcoding/03-Python-10-Wk-HW-1).
-
-> **Hint:** Include a bunch of `print` statements everywhere to print out the values of the variables at various times. For example, inside `get_offense()`, put a `print` statement like `print("offense is", offense)`.
+> **Hint:** Include a bunch of `print` statements everywhere to print out the values of the variables at various times. For example, inside `get_offense()`, put a `print` statement like `print('offense is', offense)`.
 
 ---
 
