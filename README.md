@@ -9,8 +9,6 @@ Questions? Comments?
 3. Hit me up on Slack at @brandib.
 --->
 
-# Python Debugging and Intermediate Variables: Practice Problem + Reading Quiz
-
 In this homework, you're going to write code for a challenge problem and answer some reading comprehension questions.
 
 You will practice these programming concepts we've covered in class:
