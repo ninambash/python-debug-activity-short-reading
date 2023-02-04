@@ -1,0 +1,60 @@
+Read through the examples in this Data Camp article about data types and type conversion. Then, answer the following questions.
+
+1. Coercion is another term for which of the following concepts in Python?
+a) Encapsulation
+b) Inheritance
+c) Explicit type conversion
+------------------------------d) Implicit type conversion
+e) Floor division
+2. Type casting is another term for which of the following concepts in Python?
+a) Encapsulation
+b) Inheritance
+c) Explicit type conversion
+d) Implicit type conversion
+e) Floor division
+3. What function in Python can we use to check a variable's type?
+a) --------type()
+b) typeof()
+c) typeof, but it is an operator not a function
+d) get_type()
+4. Which of the following is NOT a primitive data structure?
+a) Float
+b) Integer
+-----c) List
+d) String
+e) Both a and c are not primitives
+5. According to the article, what is the main reason to convert a tuple into a list?
+
+Tuples in Python are immutable, which means that once a tuple is created, its contents cannot be changed.
+
+ On the other hand, lists are mutable, which means that their contents can be altered. If you need to modify the contents of a collection of values, you'll need to convert it into a list first.
+  Converting a tuple into a list allows you to make these changes, making it a more flexible data structure for certain use cases.
+
+  Converting a tuple into a list allows you to make these changes, making it a more flexible data structure for certain use cases.
+  what is a tuple in Python
+  A tuple is a collection of ordered, immutable elements in Python. Tuples are defined using parentheses () and elements are separated by commas. just like const in JavaScript
+
+  my_tuple = (1, 2, 3, 4)
+    for index, value in enumerate(my_tuple):
+    print(f"Item at index {index} is {value}")
+
+    output
+    Item at index 0 is 1
+    Item at index 1 is 2
+    Item at index 2 is 3
+    Item at index 3 is 4
+
+    ---------
+    my_tuple = (1, 2, 3, 4)
+    for item in my_tuple:
+    print(item)
+
+    output
+    1
+    2
+    3
+    4
+
+
+
+
